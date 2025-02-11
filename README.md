@@ -8,4 +8,4 @@ This aims to showcase the best desktop environments for Linux.
 * XFCE
 * Cosmic
 ## Contributing
-Please see the contributing.md for all the contribution guidelines.
+Please see the [contributing.md](https://github.com/Inhishonor/awesome-desktop-environments/blob/main/contributing.md) for the contribution guidelines.
