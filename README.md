@@ -1,11 +1,14 @@
 # Awesome Desktop Environments
-This aims to showcase the best desktop environments for Linux. **⚠️ Currently Under Construction, please see the [contributing.md](https://github.com/Inhishonor/awesome-desktop-environments/blob/main/contributing.md) for ways to contribute. Thanks!**
+This aims to showcase the best desktop environments for Linux. Please leave a ⭐ if you like this project!  
+**⚠️ Currently Under Construction, please see the [contributing.md](https://github.com/Inhishonor/awesome-desktop-environments/blob/main/contributing.md) for ways to contribute. Thanks!**
 ## Table of Contents
 * KDE Plasma
 * Gnome
 * Cinamon
 * Budgie
 * XFCE
+* LXQt
+* Mate
 * Deepin
 * Cosmic
 ## KDE Plasma
@@ -23,6 +26,8 @@ This aims to showcase the best desktop environments for Linux. **⚠️ Currentl
 ## XFCE
 - [Website](https://www.xfce.org/)
 - [Source Code](https://gitlab.xfce.org/xfce)
+## LXQt
+## Mate
 ## Deepin
 - [Website](https://www.deepin.org/en/dde/)
 - [Source Code]()
