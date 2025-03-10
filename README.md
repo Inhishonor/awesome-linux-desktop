@@ -3,7 +3,7 @@ This aims to showcase the best desktop environments for Linux. Please leave a тн
 **тЪая╕П Currently Under Construction, please see the [contributing.md](https://github.com/Inhishonor/awesome-desktop-environments/blob/main/contributing.md) for ways to contribute. Thanks!**
 ## Table of Contents
 * [KDE Plasma](#kde-plasma) 
-* [Gnome](#gnome) 
+* [GNOME](#gnome) 
 * [Cinnamon](#cinnamon) 
 * [Budgie](#budgie) 
 * [XFCE](#xfce) 
@@ -15,26 +15,26 @@ This aims to showcase the best desktop environments for Linux. Please leave a тн
 A feature-rich medium weight desktop environment developed by KDE. It is designed to be simple by default but to have many options for customization. It also comes up with KDE's suite of apps, such as Discover, Dolphin and KDE Connect.
 * [Website](https://kde.org/plasma-desktop/)
 * [Source Code](https://invent.kde.org/plasma)
-## Gnome
+## GNOME  
 * [Website](https://www.gnome.org/)
 * [Source Code](https://gitlab.gnome.org/GNOME)
-## Cinnamon
+## Cinnamon  
 A medium weight desktop environment developed by the team behind Linux Mint. It is designed to be user-freindly above all else.
 * [Website](https://projects.linuxmint.com/cinnamon/)
 * [Source Code](https://github.com/linuxmint/cinnamon)
-## Budgie
+## Budgie  
 * [Website](https://buddiesofbudgie.org/)
 * [Source Code](https://github.com/BuddiesOfBudgie/budgie-desktop)
-## XFCE
+## XFCE  
 * [Website](https://www.xfce.org/)
 * [Source Code](https://gitlab.xfce.org/xfce)
-## LXQt
+## LXQt  
 * [Website](https://lxqt-project.org/)
 * [Source Code](https://github.com/lxqt/lxqt)
-## Mate
+## Mate  
 * [Website](https://mate-desktop.com/)
 * [Source Code](https://github.com/mate-desktop)
-## Deepin
+## Deepin  
 A very visually-appealing desktop environment that was built for Deepin Linux.
 * [Website](https://www.deepin.org/en/dde/)
 * [Source Code]()
