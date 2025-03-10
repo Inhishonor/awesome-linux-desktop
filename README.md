@@ -1,7 +1,7 @@
 # Awesome Desktop Environments [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 This aims to showcase the best desktop environments for Linux. Please leave a ⭐ if you like this project!  
 **⚠️ Currently Under Construction, please see the [contributing.md](https://github.com/Inhishonor/awesome-desktop-environments/blob/main/contributing.md) for ways to contribute. Thanks!**
-## Table of Contents
+## Contents
 * [KDE Plasma](#kde-plasma) 
 * [GNOME](#gnome) 
 * [Cinnamon](#cinnamon) 
