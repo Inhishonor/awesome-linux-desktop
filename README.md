@@ -29,9 +29,11 @@ A medium weight desktop environment developed by the team behind Linux Mint. It 
 * [Website](https://www.xfce.org/)
 * [Source Code](https://gitlab.xfce.org/xfce)
 ## LXQt  
+A lightweight Qt desktop environment. It is designed to be out of the user's way and focus on speed over looks. It is focused on being a classic desktop with a modern look and feel.
 * [Website](https://lxqt-project.org/)
 * [Source Code](https://github.com/lxqt/lxqt)
 ## Mate  
+A popular continuation of GNOME 2. It provides an intuitive and attractive desktop environment using traditional metaphors for Linux and other Unix-like operating systems.
 * [Website](https://mate-desktop.com/)
 * [Source Code](https://github.com/mate-desktop)
 ## Deepin  
