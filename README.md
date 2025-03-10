@@ -27,7 +27,11 @@ This aims to showcase the best desktop environments for Linux. Please leave a тн
 - [Website](https://www.xfce.org/)
 - [Source Code](https://gitlab.xfce.org/xfce)
 ## LXQt
+- [Website](https://lxqt-project.org/)
+- [Source Code](https://github.com/lxqt/lxqt)
 ## Mate
+- [Website](https://mate-desktop.com/)
+- [Source Code](https://github.com/mate-desktop)
 ## Deepin
 - [Website](https://www.deepin.org/en/dde/)
 - [Source Code]()
