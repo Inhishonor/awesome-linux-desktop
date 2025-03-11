@@ -1,6 +1,6 @@
 # Awesome Linux Desktop [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 This aims to showcase the best desktop environments, configurations, and display managers for Linux. Please leave a ⭐ if you like this project!  
-**⚠️ Currently Under Construction, please see the [contributing.md](https://github.com/Inhishonor/awesome-desktop-environments/blob/main/contributing.md) for ways to contribute. Thanks!**
+**⚠️ Currently Under Construction, Contributions Welcome! Thanks!**
 ## Contents
 * [Desktop Environments](#desktop-environments)
   * [KDE Plasma](#kde-plasma) 
@@ -18,11 +18,11 @@ This aims to showcase the best desktop environments, configurations, and display
   * [Wayfire](#wayfire)
   * [Sway](#sway)
 * [Display Managers](#display-managers)
-  * [GDM](#gnome-display-manager)
+  * [GNOME Display Manager](#gnome-display-manager)
   * [LightDM](#lightdm)
 * [Display Servers](#display-servers)
   * [Wayland](#wayland)
-  * [x11](#x11)
+  * [X11](#x11)
 ## Desktop Environments
 ### KDE Plasma
 A feature-rich medium weight desktop environment developed by KDE. It is designed to be simple by default but to have many options for customization. It also comes up with KDE's suite of apps, such as Discover, Dolphin and KDE Connect.
