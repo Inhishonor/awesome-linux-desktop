@@ -84,7 +84,8 @@ A very visually-appealing desktop environment that was built for Deepin Linux.
 ### Wayland
 * [Website](https://wayland.freedesktop.org/)
 * [Source Code](https://gitlab.freedesktop.org/wayland/wayland)
-* [Arch Linux Wiki](https://wiki.archlinux.org/title/Wayland)
 ### X11
+* [Website](https://www.x.org/wiki/)
+* [Source Code](https://gitlab.freedesktop.org/xorg)
 ## Contributing
 Please see the [contributing.md](https://github.com/Inhishonor/awesome-desktop-environments/blob/main/contributing.md) for the contribution guidelines.
