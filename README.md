@@ -13,50 +13,78 @@ This aims to showcase the best desktop environments, configurations, and display
   * [Deepin](#deepin) 
   * [Cosmic](#cosmic)
 * [Window Managers](#window-managers)
-  * i3
-* [Display Manangers](#display-managers)
-  * Hyperland
-  * Wayland
-  * x11
+  * [i3](#i3)
+  * [Hyperland](#hyperland)
+  * [Wayfire](#wayfire)
+  * [Sway](#sway)
+* [Display Managers](#display-managers)
+  * [GDM](#gnome-display-manager)
+  * [LightDM](#lightdm)
+* [Display Servers](#display-servers)
+  * [Wayland](#wayland)
+  * [x11](#x11)
 ## Desktop Environments
 ### KDE Plasma
 A feature-rich medium weight desktop environment developed by KDE. It is designed to be simple by default but to have many options for customization. It also comes up with KDE's suite of apps, such as Discover, Dolphin and KDE Connect.
 * [Website](https://kde.org/plasma-desktop/)
 * [Source Code](https://invent.kde.org/plasma)
+* [Themes](https://store.kde.org/browse?cat=104&ord=latest)
 ### GNOME  
 * [Website](https://www.gnome.org/)
 * [Source Code](https://gitlab.gnome.org/GNOME)
+* [Themes](https://www.gnome-look.org/browse/)
 ### Cinnamon  
 A medium weight desktop environment developed by the team behind Linux Mint. It is designed to be user-freindly above all else.
 * [Website](https://projects.linuxmint.com/cinnamon/)
 * [Source Code](https://github.com/linuxmint/cinnamon)
+* [Themes](https://cinnamon-spices.linuxmint.com/themes)
 ### Budgie  
 * [Website](https://buddiesofbudgie.org/)
 * [Source Code](https://github.com/BuddiesOfBudgie/budgie-desktop)
+* [Themes](https://www.gnome-look.org/browse?cat=135&tag=budgie)
 ### XFCE  
 * [Website](https://www.xfce.org/)
 * [Source Code](https://gitlab.xfce.org/xfce)
+* [Themes](https://www.xfce-look.org/browse?cat=138&ord=latest)
 ### LXQt  
 A lightweight Qt desktop environment. It is designed to be out of the user's way and focus on speed over looks. It is focused on being a classic desktop with a modern look and feel.
 * [Website](https://lxqt-project.org/)
 * [Source Code](https://github.com/lxqt/lxqt)
+* [Themes](https://www.opendesktop.org/browse?cat=446&ord=latest)
 ### Mate  
 A popular continuation of GNOME 2. It provides an intuitive and attractive desktop environment using traditional metaphors for Linux and other Unix-like operating systems.
 * [Website](https://mate-desktop.com/)
 * [Source Code](https://github.com/mate-desktop)
+* [Themes](https://www.mate-look.org/browse/)
 ### Deepin  
 A very visually-appealing desktop environment that was built for Deepin Linux.
 * [Website](https://www.deepin.org/en/dde/)
-* [Source Code]()
+* [Source Code](https://github.com/linuxdeepin)
 ### Cosmic
 **⚠️ Currently in Alpha, may have breaking changes.** An innovative Desktop Environment that it is being built by System 76 entierely in Rust.
 * [Website](https://system76.com/cosmic/.)
 * [Source Code](https://github.com/pop-os/cosmic-epoch)
 ## Window Managers
 ### i3
-## Display Managers
+* [Website](https://i3wm.org/)
+* [Source Code](https://github.com/i3/i3)
 ### Hyperland
+* [Website](https://hyprland.org/)
+* [Source Code](https://github.com/hyprwm/Hyprland)
+### Wayfire
+* [Website](https://wayfire.org/)
+* [Source Code](https://github.com/WayfireWM/wayfire)
+### Sway
+* [Website](https://swaywm.org/)
+* [Source Code](https://github.com/swaywm/sway)
+## Display Managers
+### GNOME Display Manager
+### LightDM
+## Display Servers
 ### Wayland
-###
+* [Website](https://wayland.freedesktop.org/)
+* [Source Code](https://gitlab.freedesktop.org/wayland/wayland)
+* [Arch Linux Wiki](https://wiki.archlinux.org/title/Wayland)
+### X11
 ## Contributing
 Please see the [contributing.md](https://github.com/Inhishonor/awesome-desktop-environments/blob/main/contributing.md) for the contribution guidelines.
