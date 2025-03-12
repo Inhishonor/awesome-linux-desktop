@@ -30,11 +30,12 @@ A feature-rich medium weight desktop environment developed by KDE. It is designe
 * [Source Code](https://invent.kde.org/plasma)
 * [Themes](https://store.kde.org/browse?cat=104&ord=latest)
 ### GNOME  
+A very popular desktop environment that is used as the default of many linux distributions. It is more of a heavy-weight desktop environemnt, and attempts to be an easy to use and elegant. It is designed to be simple, with many options avaliable through extensions.
 * [Website](https://www.gnome.org/)
 * [Source Code](https://gitlab.gnome.org/GNOME)
 * [Themes](https://www.gnome-look.org/browse/)
 ### Cinnamon  
-A medium weight desktop environment developed by the team behind Linux Mint. It is designed to be user-freindly above all else.
+A medium weight desktop environment developed by the team behind Linux Mint. It is designed to be user-freindly above all else. It is designed with traditional computing in mind. It is a fork of GNOME 3.
 * [Website](https://projects.linuxmint.com/cinnamon/)
 * [Source Code](https://github.com/linuxmint/cinnamon)
 * [Themes](https://cinnamon-spices.linuxmint.com/themes)
@@ -43,6 +44,7 @@ A medium weight desktop environment developed by the team behind Linux Mint. It 
 * [Source Code](https://github.com/BuddiesOfBudgie/budgie-desktop)
 * [Themes](https://www.gnome-look.org/browse?cat=135&tag=budgie)
 ### XFCE  
+A desktop environment that aims to the lightest possible desktop environment for Linux. A main focus is making the desktop enviornment modular, and giving choice back to the user. Out of the box, it is very basic, to allow the user many customizations.
 * [Website](https://www.xfce.org/)
 * [Source Code](https://gitlab.xfce.org/xfce)
 * [Themes](https://www.xfce-look.org/browse?cat=138&ord=latest)
@@ -61,7 +63,7 @@ A very visually-appealing desktop environment that was built for Deepin Linux.
 * [Website](https://www.deepin.org/en/dde/)
 * [Source Code](https://github.com/linuxdeepin)
 ### Cosmic
-**⚠️ Currently in Alpha, may have breaking changes.** An innovative Desktop Environment that it is being built by System 76 entierely in Rust.
+**⚠️ Currently in Alpha, may have breaking changes.** An innovative Desktop Environment that it is being built by System 76 entierely in Rust. It is designed to be useful for all users, and utilize modularity in order to allow customization that suits all users.
 * [Website](https://system76.com/cosmic/.)
 * [Source Code](https://github.com/pop-os/cosmic-epoch)
 ## Window Managers
