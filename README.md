@@ -29,7 +29,7 @@ A feature-rich medium weight desktop environment developed by KDE. It is designe
 * [Source Code](https://invent.kde.org/plasma)
 * [Themes](https://store.kde.org/browse?cat=104&ord=latest)
 * [Theming Guide](https://itsfoss.com/properly-theme-kde-plasma/) (It's FOSS) 
-* It's FOSS' [Customization Guide](https://itsfoss.com/kde-customization/) (It's FOSS) 
+* [Customization Guide](https://itsfoss.com/kde-customization/) (It's FOSS) 
 ### GNOME  
 A very popular desktop environment that is used as the default of many linux distributions. It is more of a heavy-weight desktop environemnt, and attempts to be an easy to use and elegant. It is designed to be simple, with many options avaliable through extensions.
 * [Website](https://www.gnome.org/)
@@ -61,7 +61,7 @@ A popular continuation of GNOME 2. It provides an intuitive and attractive deskt
 * [Source Code](https://github.com/mate-desktop)
 * [Themes](https://www.mate-look.org/browse/)
 ### Cosmic
-**⚠️ Currently in Alpha, may have breaking changes.** An innovative Desktop Environment that it is being built by System 76 entierely in Rust. It is designed to be useful for all users, and utilize modularity in order to allow customization that suits all users.
+**⚠️ Currently in Alpha, may have breaking changes.** An innovative Desktop Environment that it is being built by System 76 entirely in Rust. It is designed to be useful for all users, and utilize modularity in order to allow customization that suits all users.
 * [Website](https://system76.com/cosmic/.)
 * [Source Code](https://github.com/pop-os/cosmic-epoch)
 ## Window Managers
