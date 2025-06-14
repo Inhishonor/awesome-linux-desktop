@@ -10,7 +10,6 @@ This aims to showcase the best desktop environments, configurations, and display
   * [XFCE](#xfce) 
   * [LXQt](#lxqt) 
   * [Mate](#mate) 
-  * [Deepin](#deepin) 
   * [Cosmic](#cosmic)
 * [Window Managers](#window-managers)
   * [i3](#i3)
@@ -58,10 +57,6 @@ A popular continuation of GNOME 2. It provides an intuitive and attractive deskt
 * [Website](https://mate-desktop.com/)
 * [Source Code](https://github.com/mate-desktop)
 * [Themes](https://www.mate-look.org/browse/)
-### Deepin  
-A very visually-appealing desktop environment that was built for Deepin Linux.
-* [Website](https://www.deepin.org/en/dde/)
-* [Source Code](https://github.com/linuxdeepin)
 ### Cosmic
 **⚠️ Currently in Alpha, may have breaking changes.** An innovative Desktop Environment that it is being built by System 76 entierely in Rust. It is designed to be useful for all users, and utilize modularity in order to allow customization that suits all users.
 * [Website](https://system76.com/cosmic/.)
