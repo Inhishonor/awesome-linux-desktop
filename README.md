@@ -28,11 +28,14 @@ A feature-rich medium weight desktop environment developed by KDE. It is designe
 * [Website](https://kde.org/plasma-desktop/)
 * [Source Code](https://invent.kde.org/plasma)
 * [Themes](https://store.kde.org/browse?cat=104&ord=latest)
+* It's FOSS' [Theming Guide](https://itsfoss.com/properly-theme-kde-plasma/)
+* It's FOSS' [Customization Guide](https://itsfoss.com/kde-customization/)
 ### GNOME  
 A very popular desktop environment that is used as the default of many linux distributions. It is more of a heavy-weight desktop environemnt, and attempts to be an easy to use and elegant. It is designed to be simple, with many options avaliable through extensions.
 * [Website](https://www.gnome.org/)
 * [Source Code](https://gitlab.gnome.org/GNOME)
 * [Themes](https://www.gnome-look.org/browse/)
+* It's Foss' [Customization Guide](https://itsfoss.com/gnome-tricks-ubuntu/)
 ### Cinnamon  
 A medium weight desktop environment developed by the team behind Linux Mint. It is designed to be user-freindly above all else. It is designed with traditional computing in mind. It is a fork of GNOME 3.
 * [Website](https://projects.linuxmint.com/cinnamon/)
@@ -65,6 +68,7 @@ A popular continuation of GNOME 2. It provides an intuitive and attractive deskt
 ### i3
 * [Website](https://i3wm.org/)
 * [Source Code](https://github.com/i3/i3)
+* It's FOSS' [Customization Guide](https://itsfoss.com/i3-customization/)
 ### Hyperland
 * [Website](https://hyprland.org/)
 * [Source Code](https://github.com/hyprwm/Hyprland)
