@@ -16,14 +16,14 @@ This aims to showcase the best desktop environments, configurations, and display
   * [Hyperland](#hyperland)
   * [Wayfire](#wayfire)
   * [Sway](#sway)
+  * [Enlightenment](#enlightenment)
 * [Display Managers](#display-managers)
   * [GNOME Display Manager](#gnome-display-manager)
   * [LightDM](#lightdm)
   * [SDDM](#sddm) 
 * [Display Servers](#display-servers)
   * [Wayland](#wayland)
-  * [X11](#x11)
-  * [Enlightenment](#enlightenment) 
+  * [X11](#x11) 
 ## Desktop Environments
 ### KDE Plasma
 A feature-rich medium weight desktop environment developed by KDE. It is designed to be simple by default but to have many options for customization. It also comes up with KDE's suite of apps, such as Discover, Dolphin and KDE Connect.
@@ -81,6 +81,11 @@ A popular continuation of GNOME 2. It provides an intuitive and attractive deskt
 ### Sway
 * [Website](https://swaywm.org/)
 * [Source Code](https://github.com/swaywm/sway)
+### Enlightenment
+* [Website](https://www.enlightenment.org/)
+* [Source Code](https://git.enlightenment.org/)
+### KWin
+* [Source Code](https://invent.kde.org/plasma/kwin)
 ## Display Managers
 ### GNOME Display Manager
 * [Website](https://wiki.gnome.org/Projects/GDM/)
@@ -97,8 +102,5 @@ A popular continuation of GNOME 2. It provides an intuitive and attractive deskt
 ### X11
 * [Website](https://www.x.org/wiki/)
 * [Source Code](https://gitlab.freedesktop.org/xorg)
-### Enlightenment
-* [Website](https://www.enlightenment.org/)
-* [Source Code](https://git.enlightenment.org/)
 ## Contributing
 Please see the [contributing.md](https://github.com/Inhishonor/awesome-desktop-environments/blob/main/contributing.md) for the contribution guidelines.
