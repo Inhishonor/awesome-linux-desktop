@@ -17,6 +17,7 @@ This aims to showcase the best desktop environments, configurations, and display
   * [Wayfire](#wayfire)
   * [Sway](#sway)
   * [Enlightenment](#enlightenment)
+  * [KWin](#kwin) 
 * [Display Managers](#display-managers)
   * [GNOME Display Manager](#gnome-display-manager)
   * [LightDM](#lightdm)
