@@ -87,7 +87,7 @@ A popular continuation of GNOME 2. It provides an intuitive and attractive deskt
 ### LightDM
 * [Source Code](https://github.com/canonical/lightdm/)
 ### SDDM
-* [Website and Wiki](https://github.com/sddm/sddm/wiki]
+* [Website and Wiki](https://github.com/sddm/sddm/wiki)
 * [Source Code](https://github.com/sddm/sddm)
 ## Display Servers
 ### Wayland
