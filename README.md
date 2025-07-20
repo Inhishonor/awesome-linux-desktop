@@ -81,6 +81,8 @@ A popular continuation of GNOME 2. It provides an intuitive and attractive deskt
 * [Source Code](https://github.com/swaywm/sway)
 ## Display Managers
 ### GNOME Display Manager
+* [Website](https://wiki.gnome.org/Projects/GDM/)
+* [Source Code](https://gitlab.gnome.org/GNOME/gdm)
 ### LightDM
 ## Display Servers
 ### Wayland
