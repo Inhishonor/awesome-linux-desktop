@@ -84,6 +84,9 @@ A popular continuation of GNOME 2. It provides an intuitive and attractive deskt
 * [Website](https://wiki.gnome.org/Projects/GDM/)
 * [Source Code](https://gitlab.gnome.org/GNOME/gdm)
 ### LightDM
+### SDDM
+* [Website/Wiki](https://github.com/sddm/sddm/wiki]
+* [Source Code](https://github.com/sddm/sddm)
 ## Display Servers
 ### Wayland
 * [Website](https://wayland.freedesktop.org/)
