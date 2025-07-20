@@ -19,6 +19,7 @@ This aims to showcase the best desktop environments, configurations, and display
 * [Display Managers](#display-managers)
   * [GNOME Display Manager](#gnome-display-manager)
   * [LightDM](#lightdm)
+  * [SDDM](#sddm) 
 * [Display Servers](#display-servers)
   * [Wayland](#wayland)
   * [X11](#x11)
@@ -84,8 +85,9 @@ A popular continuation of GNOME 2. It provides an intuitive and attractive deskt
 * [Website](https://wiki.gnome.org/Projects/GDM/)
 * [Source Code](https://gitlab.gnome.org/GNOME/gdm)
 ### LightDM
+* [Source Code](https://github.com/canonical/lightdm/)
 ### SDDM
-* [Website/Wiki](https://github.com/sddm/sddm/wiki]
+* [Website and Wiki](https://github.com/sddm/sddm/wiki]
 * [Source Code](https://github.com/sddm/sddm)
 ## Display Servers
 ### Wayland
