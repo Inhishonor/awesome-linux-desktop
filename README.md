@@ -69,6 +69,7 @@ A popular continuation of GNOME 2. It provides an intuitive and attractive deskt
 * [Source Code](https://github.com/pop-os/cosmic-epoch)
 ## Window Managers
 ### i3
+A tiling window manager that is designed for those who prefer using entirely their keyboard. It is also designed to be highly customizable.
 * [Website](https://i3wm.org/)
 * [Source Code](https://github.com/i3/i3)
 * [Customization Guide](https://itsfoss.com/i3-customization/) (It's FOSS) 
