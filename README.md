@@ -74,19 +74,24 @@ A tiling window manager that is designed for those who prefer using entirely the
 * [Source Code](https://github.com/i3/i3)
 * [Customization Guide](https://itsfoss.com/i3-customization/) (It's FOSS) 
 ### Hyperland
+A wayland compositor that is designed to be attractive, customizable and feature rich. It has support for tyling, advanced animations and live configuration.
 * [Website](https://hyprland.org/)
 * [Source Code](https://github.com/hyprwm/Hyprland)
 * [Usage Guide](https://itsfoss.com/hyprland/) (It's FOSS) 
 ### Wayfire
+A wayland window manager based on [`wlroots`](https://gitlab.freedesktop.org/wlroots/wlroots) that is designed to be customizable, extensible and lightweight without sacraficing appearance.
 * [Website](https://wayfire.org/)
 * [Source Code](https://github.com/WayfireWM/wayfire)
 ### Sway
+A tiling wayland compositor that was designed to be a drop in replacement for i3 on X11. It uses the same configuration file, and many of the same design principles.
 * [Website](https://swaywm.org/)
 * [Source Code](https://github.com/swaywm/sway)
 ### Enlightenment
+A simple window manager for X11, that aims for being minimal, and well supported.
 * [Website](https://www.enlightenment.org/)
 * [Source Code](https://git.enlightenment.org/)
 ### KWin
+The default compositor for KDE Plasma. It is written for Wayland and is designed to be easy to use but exstensible.
 * [Source Code](https://invent.kde.org/plasma/kwin)
 ## Display Managers
 ### GNOME Display Manager
